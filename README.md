@@ -1,1 +1,3 @@
-# snake-game
+# snake
+
+snake game coded in c#
